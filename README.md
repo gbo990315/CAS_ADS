@@ -1,2 +1,2 @@
-# CAS_ADS_4
-CAS in Applied Data Science module 4, documentation and best practices
+# CAS_ADS
+Repo for CAS ADS study material and final projects
